@@ -1,3 +1,3 @@
-# Helge's website
+# Helge's page
 
 by Helge Klapper
