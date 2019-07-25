@@ -1,4 +1,4 @@
-# Helge Klapper's page
+# Helge Klapper's papers
 
 Link to current <a href="https://github.com/helgeklapper/My-Website/blob/gh-pages/Klapper%2020190320%20CV.pdf">CV</a>  
 
